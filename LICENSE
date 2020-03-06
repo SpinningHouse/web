@@ -1,24 +1,118 @@
-This is free and unencumbered software released into the public domain.
+------------
+NO LICENCE 
+------------
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+When you make a creative work (which includes code), the work is 
+under exclusive copyright by default. Unless you include a license 
+that specifies otherwise, nobody else can copy, distribute, or 
+modify your work without being at risk of take-downs, shake-downs, 
+or litigation. Once the work has other contributors (each a 
+copyright holder), “nobody” starts including you.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Even in the absence of a license file, you may grant some rights 
+in cases where you publish your source code to a site that requires
+accepting terms of service. For example, if you publish your source 
+code in a public repository on GitHub, you have accepted the Terms of 
+Service, by which you allow others to view and fork your repository. 
+Others may not need your permission if limitations and exceptions to 
+copyright apply to their particular situation. Neither site terms nor 
+jurisdiction-specific copyright limitations are sufficient for the 
+kinds of collaboration that people usually seek on a public code host, 
+such as experimentation, modification, and sharing as fostered by an 
+open source license.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+You don’t have to do anything to not offer a license. You may, however, 
+wish to add a copyright notice and statement that you are not offering 
+any license in a prominent place (e.g., your project’s README) so that 
+users don’t assume you made an oversight. If you’re going to accept 
+others’ contributions to your non-licensed project, you may wish to 
+explore adding a contributor agreement to your project with your lawyer 
+so that you maintain copyright permission from contributors, even 
+though you’re not granting the same.
 
-For more information, please refer to <http://unlicense.org>
+Disallowing use of your code might not be what you intend by “no license.” 
+An open source license allows reuse of your code while retaining copyright. 
+If your goal is to completely opt-out of copyright restrictions, try a 
+public domain dedication instead.
+
+For users
+If you find software that doesn’t have a license, that generally means you 
+have no permission from the creators of the software to use, modify, or 
+share the software. Although a code host such as GitHub may allow you to 
+view and fork the code, this does not imply that you are permitted to use, 
+modify, or share the software for any purpose.
+
+Your options:
+
+Ask the maintainers nicely to add a license. Unless the software includes 
+strong indications to the contrary, lack of a license is probably an 
+oversight. If the software is hosted on a site like GitHub, open an issue 
+requesting a license and include a link to this site. If you’re bold and 
+it’s fairly obvious what license is most appropriate, open a pull request 
+to add a license – see “suggest this license” in the sidebar of the page 
+for each license on this site (e.g., MIT).
+Don’t use the software. Find or create an alternative that is under an 
+open source license.
+
+Negotiate a private license. Bring your lawyer.
+
+For more information, please refer to <https://choosealicense.com/no-permission/>
+
+------------
+SEM LICENÇA
+------------
+Quando você cria um trabalho criativo (que inclui código), o trabalho é
+sob direitos autorais exclusivos por padrão. A menos que você inclua uma licença
+que especifica o contrário, ninguém mais pode copiar, distribuir ou
+modifique seu trabalho sem correr o risco de derrubar, abalar,
+ou litígio. Depois que o trabalho tiver outros colaboradores (cada um
+detentor dos direitos autorais), "ninguém" começa a incluir você.
+
+Mesmo na ausência de um arquivo de licença, você pode conceder alguns direitos
+nos casos em que você publica seu código-fonte em um site que exige
+aceitar termos de serviço. Por exemplo, se você publicar sua fonte
+código em um repositório público no GitHub, você aceitou os Termos de
+Serviço, pelo qual você permite que outras pessoas visualizem e bifurcem seu repositório.
+Outros podem não precisar da sua permissão se limitações e exceções a
+os direitos autorais se aplicam à sua situação específica. Nem os termos do site nem
+limitações de direitos autorais específicas da jurisdição são suficientes para
+tipos de colaboração que as pessoas geralmente procuram em um host de código público,
+experimentação, modificação e compartilhamento, promovidos por um
+licença de código aberto.
+
+Você não precisa fazer nada para não oferecer uma licença. Você pode, no entanto,
+deseja adicionar um aviso de direitos autorais e uma declaração que você não está oferecendo
+qualquer licença em um local de destaque (por exemplo, o LEIA-ME do seu projeto) para que
+os usuários não assumem que você fez uma supervisão. Se você vai aceitar
+contribuições de outras pessoas para o seu projeto não licenciado, convém
+explore a adição de um contrato de colaborador ao seu projeto com seu advogado
+para que você mantenha a permissão de direitos autorais de colaboradores, mesmo
+embora você não esteja concedendo o mesmo.
+
+Não permitir o uso do seu código pode não ser o que você pretende com "sem licença".
+Uma licença de código aberto permite a reutilização do seu código, mantendo os direitos autorais.
+Se seu objetivo é desativar completamente as restrições de direitos autorais, tente uma
+dedicação de domínio público.
+
+Para usuários
+Se você encontrar um software que não possui uma licença, isso geralmente significa que você
+não tem permissão dos criadores do software para usar, modificar ou
+compartilhe o software. Embora um host de código como o GitHub possa permitir que você
+visualizar e bifurcar o código, isso não implica que você tenha permissão para usar,
+modificar ou compartilhar o software para qualquer finalidade.
+
+Suas opções:
+
+Peça aos mantenedores para adicionar uma licença. A menos que o software inclua
+fortes indicações em contrário, a falta de licença é provavelmente uma
+supervisão. Se o software estiver hospedado em um site como o GitHub, abra um problema
+solicitando uma licença e inclua um link para este site. Se você é corajoso e
+é bastante óbvio qual licença é mais apropriada, abra uma solicitação pull
+para adicionar uma licença - consulte "sugerir esta licença" na barra lateral da página
+para cada licença neste site (por exemplo, MIT).
+Não use o software. Encontre ou crie uma alternativa que esteja sob um
+licença de código aberto.
+
+Negocie uma licença privada. Traga seu advogado.
+
+Para mais informações, consulte <https://choosealicense.com/no-permission/>
